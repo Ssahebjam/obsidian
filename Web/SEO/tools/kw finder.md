@@ -1,0 +1,1 @@
+we can find queries with this tool then add them to excel

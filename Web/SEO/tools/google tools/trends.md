@@ -1,0 +1,1 @@
+its a web site witch its showing us what is trending in what part of the world is what country or state and we are in iran so we should use world wide option and we can compare different queries

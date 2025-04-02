@@ -1,0 +1,1 @@
+the collection of bindings and their values that exist in a given time is called environment when a program starts up this environment is not empty it always contain the bindings that is part of the language standard. a lot of the value in the environment are function.

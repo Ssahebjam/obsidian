@@ -1,0 +1,1 @@
+page quality have masiv impact in Seo which means the html structure is solid

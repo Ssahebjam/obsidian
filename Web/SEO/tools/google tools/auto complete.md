@@ -1,0 +1,1 @@
+when we are typing queries in google there are some completations in the search bar we can use this to find most powerfull queries

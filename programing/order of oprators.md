@@ -1,0 +1,1 @@
+|| has the lowest priority then its && and then its parison oprators( >, and so on) and then the rest of the oprations

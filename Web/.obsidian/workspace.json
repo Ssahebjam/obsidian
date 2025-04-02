@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "a68ce8004f6d4155",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e56315da19121e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ade0310086b88ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEO/keywords/PLP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PLP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a732cb15962dffbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "be77d078b108c55d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95300c33951e9af0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d4475b9dc0e955e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#extensions",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8f1bfe704bfcd74d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1e11e0802904340",
+    "type": "split",
+    "children": [
+      {
+        "id": "784f94594d149be8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb638d5c80fed16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Solving overflow problem with out flex shorthand.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Solving overflow problem with out flex shorthand"
+            }
+          },
+          {
+            "id": "a36210c09efe5a8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Solving overflow problem with out flex shorthand.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Solving overflow problem with out flex shorthand"
+            }
+          },
+          {
+            "id": "961246ea8804ef04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9921b5aeed04e66d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Solving overflow problem with out flex shorthand.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Solving overflow problem with out flex shorthand"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ade0310086b88ac",
+  "lastOpenFiles": [
+    "SEO/keywords/PDP.md",
+    "SEO/keywords/PLP.md",
+    "SEO/keywords/PQ.md",
+    "SEO/strategy/3 types of pages.md",
+    "SEO/strategy/exel structure.md",
+    "SEO/strategy/strategy and trend.md",
+    "SEO/tools/google tools/suggestions.md",
+    "SEO/tools/extensions.md",
+    "SEO/tools/google tools/Drive.md",
+    "SEO/keywords/Revision.md",
+    "SEO/tools/google tools/auto complete.md",
+    "SEO/tools/google tools/trends.md",
+    "SEO/seopdf.pdf",
+    "SEO/tools/SEO analitycs.md",
+    "SEO/tools/light house in chrome.md",
+    "SEO/tools/kw finder.md",
+    "SEO/tools/Untitled.md",
+    "SEO/tools/google tools",
+    "SEO/tools/d.md",
+    "SEO/keywords/google results.md",
+    "SEO/tools/google tools/search console.md",
+    "SEO/strategy.md",
+    "SEO/strategy",
+    "SEO/learning/web.dev.md",
+    "SEO/learning/queries.md",
+    "SEO/keywords/shorttail queries.md",
+    "SEO/keywords/longtail queries.md",
+    "SEO/keywords/PCP.md",
+    "SEO/taarif.md",
+    "SEO/learning",
+    "SEO/keywords",
+    "SEO/tools",
+    "css",
+    "html",
+    "SEO",
+    "js"
+  ]
+}

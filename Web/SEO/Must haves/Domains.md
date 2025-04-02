@@ -1,0 +1,1 @@
+we must have the both domains IR and COM this is much better

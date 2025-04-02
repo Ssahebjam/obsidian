@@ -1,0 +1,1 @@
+is a array of linked lists each slot of array have a linked list inside it for example for a phonebook the arrays first slot is A and is a linked list that points to names that have A in them

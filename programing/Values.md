@@ -1,0 +1,1 @@
+in order to work with so much quantities of bits in out computer we seprate them in to chunks that represent pieces of information without getting lost. in javascript we call those chunks values

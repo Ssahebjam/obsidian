@@ -1,0 +1,1 @@
+for site map we use xml site map plugin which is for better for google

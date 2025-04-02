@@ -1,0 +1,1 @@
+google drive is a cloud platform that have 15gig free space that we can use as teams for our websites seo and we have exel and other free tools in it

@@ -1,0 +1,1 @@
+when you use a container with  an img and div inside it, the img will stretch with the div element if you dont want that you can wrap the img inside a div so the dive stretch instead or you can say "align-items: flex-start" and this will solve the issue or you can select the img it self and "align-self: flex-start" this will only make the img to not stretch.

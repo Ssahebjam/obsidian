@@ -1,0 +1,1 @@
+after javascript came out of netscape they published a standard document for describing javascript programing language so every application know that they actualy probided the same language

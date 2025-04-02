@@ -1,0 +1,1 @@
+alternative for lighthouse of chrome "google-page-inside"

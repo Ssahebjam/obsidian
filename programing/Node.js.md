@@ -1,0 +1,1 @@
+provides an environment for programming JS out side of browser

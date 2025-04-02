@@ -1,0 +1,12 @@
+/* Make the cursor block in all Vim modes */
+.cm-editor.is-focused .cm-vim.cm-cursor {
+    cursor: block !important;
+    background-color: white;
+}
+
+/* Force block cursor even when not in Vim mode */
+.cm-editor.is-focused .cm-cursor {
+    cursor: block !important;
+    background-color: white;
+}
+

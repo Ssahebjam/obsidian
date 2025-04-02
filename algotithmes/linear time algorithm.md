@@ -1,0 +1,1 @@
+if you want to check a list with 100 items you must guess 100 time so its time taking

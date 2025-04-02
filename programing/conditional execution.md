@@ -1,0 +1,1 @@
+most of the functions are not straight roads we want to explore more branches conditional execution is created with the word if in javascript we want some code to executed if and only if a certain condition hold.

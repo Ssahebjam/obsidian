@@ -1,0 +1,1 @@
+in every seson there are difrent trends in shops some times some items are more popular and some times there are not so we plan our strategy based on trends of them market

@@ -1,0 +1,1 @@
+when you are using imgs at your css reset use "max-width: 100%" this will make the image responsive and not overflowing

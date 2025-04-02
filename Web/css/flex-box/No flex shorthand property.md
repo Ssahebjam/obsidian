@@ -1,0 +1,1 @@
+Something that might come in handy in flexbox is that i can set every column to width of 100% this will solve the overflow problem with out using flex shorthand property or flex basis and flex shrink.

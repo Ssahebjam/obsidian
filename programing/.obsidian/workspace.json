@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "e0aae394ad850331",
+    "type": "split",
+    "children": [
+      {
+        "id": "67a73182f6f7ae9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "306c804a1a72354d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logical oprators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "logical oprators"
+            }
+          },
+          {
+            "id": "f86696c56b862374",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Grokking-Algorithms.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Grokking-Algorithms"
+            }
+          },
+          {
+            "id": "88d7afa36bcdb9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Growing functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Growing functions"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dc9de5d089aa03e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a855f0b2edcab2df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72228022596341c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e315f4ab25b2b9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b255ef9a8f813b19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c5e7119d476ad24",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c8c3629ad5f183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56be4483462f2603",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ternary oprators or conditional oprators.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ternary oprators or conditional oprators"
+            }
+          },
+          {
+            "id": "9dac22a4be36da26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ternary oprators or conditional oprators.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ternary oprators or conditional oprators"
+            }
+          },
+          {
+            "id": "f1215be1aab620c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "424c49998c3773c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ternary oprators or conditional oprators.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ternary oprators or conditional oprators"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f86696c56b862374",
+  "lastOpenFiles": [
+    "Growing functions.md",
+    "Grokking-Algorithms.pdf",
+    "logical oprators.md",
+    "ternary oprators or conditional oprators.md",
+    "template literals ${}.md",
+    "order of oprators.md",
+    "Node.js.md",
+    "Function.md",
+    "environment.md",
+    "ECMAScript.md",
+    "Do while loop.md",
+    "conditional execution.md",
+    "Functions.md",
+    "Values.md",
+    "Unicode standard.md"
+  ]
+}

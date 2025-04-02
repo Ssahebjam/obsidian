@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "46d7af2adb49a394",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a6027954bcfde2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c669b0692665d72d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/SEO/learning/WordPress/Hand Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hand Book"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20fd1402b4251546",
+    "type": "split",
+    "children": [
+      {
+        "id": "965c3d82258f0429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12a1e3249545186f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7034e8517beb34d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26e8ff935d9b7c10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2241ce209f5471ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c1718504d3ebe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7492592a958c7d6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ac4d0e731d5fbe5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2d1ccecdd7a59290",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "933dcd616112107b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c669b0692665d72d",
+  "lastOpenFiles": [
+    "Web/SEO/learning/WordPress/themes.md",
+    "Web/SEO/learning/WordPress/Hand Book.md",
+    "Web/WordPress/WordPress.md",
+    "Web/SEO/keywords/PLP.md",
+    "Web/SEO/tools/google tools/Drive.md",
+    "Web/SEO/strategy/exel structure.md",
+    "Web/SEO/tools/google tools/extensions.md",
+    "Web/SEO/Must haves/Domains.md",
+    "Web/SEO/Must haves/Must Haves.md",
+    "Web/SEO/tools/Site Map.md",
+    "Web/SEO/strategy/3 types of pages.md",
+    "Web/SEO/strategy/Untitled",
+    "Web/SEO/strategy/strategy and trend.md",
+    "Web/js/math pow.md",
+    "Web/html/free nav tag.md",
+    "Web/WordPress",
+    "programing/basics of programing'.md",
+    "Web/SEO/Must haves/profesionals.md",
+    "Web/SEO/Must haves",
+    "Web/SEO/keywords/Revision.md",
+    "Untitled.md",
+    "Web/SEO/Google/Google serp.md",
+    "Web/SEO/keywords/routes.md",
+    "Web/SEO/learning/WordPress",
+    "Web/SEO/keywords/Hooks.md",
+    "Web/SEO/keywords/middleware.md",
+    "Web/SEO/taarif.md",
+    "Web/SEO/Google",
+    "Web/WordPress/wordpress-plugins/Rank Math SEO.md",
+    "Web/WordPress/wordpress-plugins",
+    "Web/js/librarys/splide.md",
+    "programing",
+    "Web/js/librarys",
+    "Web/js/librarys/jquery/including jquery in your projects.md",
+    "Web/js/librarys/jquery"
+  ]
+}
