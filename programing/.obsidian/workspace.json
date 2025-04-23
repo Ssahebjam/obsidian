@@ -25,12 +25,10 @@
             "id": "f86696c56b862374",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Grokking-Algorithms.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Grokking-Algorithms"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {

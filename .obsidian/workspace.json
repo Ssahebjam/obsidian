@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6fbb6a199fc838ca",
+        "id": "34724db312831b86",
         "type": "tabs",
         "children": [
           {
-            "id": "385412e40d95ee12",
+            "id": "04c7dfa7d09311ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "programing/functions/recursion.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf"
               },
-              "icon": "lucide-file",
-              "title": "recursion"
+              "icon": "lucide-file-text",
+              "title": "Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2241ce209f5471ae",
@@ -159,17 +158,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "385412e40d95ee12",
+  "active": "04c7dfa7d09311ef",
   "lastOpenFiles": [
+    "books/grokking-algorithms-illustrated-programmers-curious.pdf",
+    "books/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
+    "books/structure and interpretation of computer programs.pdf",
+    "clean-code/README.md",
+    "clean-code/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
+    "clean-code",
+    "Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
+    "books/elequent-javascript.pdf",
+    "programing/functions/recursion.md",
     "programing/functions/Function.md",
     "programing/functions/conditional execution.md",
     "programing/functions/callback function.md",
     "programing/functions/Growing functions.md",
-    "programing/functions/recursion.md",
     "Web/WordPress/WordPress.md",
     "books",
     "programing/js/basics",
-    "books/Grokking-Algorithms.pdf",
     "programing/functions",
     "Web/WordPress/intermidiate/sld.md",
     "Web/WordPress/intermidiate",
@@ -189,13 +195,6 @@
     "Web/SEO/Must haves/Must Haves.md",
     "Web/SEO/tools/Site Map.md",
     "Web/SEO/strategy/3 types of pages.md",
-    "Web/SEO/strategy/Untitled",
-    "Web/SEO/strategy/strategy and trend.md",
-    "programing/js/math pow.md",
-    "Web/html/free nav tag.md",
-    "Web/WordPress",
-    "Web/SEO/Must haves",
-    "Web/SEO/learning/WordPress",
-    "Web/SEO/Google"
+    "Web/SEO/strategy/strategy and trend.md"
   ]
 }
