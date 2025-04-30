@@ -1,0 +1,1 @@
+a common data structure .lists are nested objects that that the value of the first object holds a refrence to the second object in side of it. they can share parts of their structure.
