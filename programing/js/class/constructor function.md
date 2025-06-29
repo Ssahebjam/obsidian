@@ -1,0 +1,1 @@
+to create a instance of given class you have to make an object that derives from proper prototype which means the object should inherit from the classes prototype and has its own specific properties when you create an new instance using the new keyword we use the constructor function for that every class have a constructor function.

@@ -1,0 +1,1 @@
+the constructor function can not called like a normal function when we want to call them we need to make a new instance that its prototype is the constructors function prototype we can create it with new keyword

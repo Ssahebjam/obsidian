@@ -1,0 +1,1 @@
+creating objects with shared properties and methods. a class defines the shape of an object meaning what kind of methods and properties it has such an object is called instance

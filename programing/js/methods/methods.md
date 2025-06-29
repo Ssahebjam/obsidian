@@ -1,0 +1,1 @@
+methods are just object properties with function values. methods should perform actions and changes to the object the they was called on. 

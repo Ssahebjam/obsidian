@@ -1,0 +1,1 @@
+you can create an object with your own prototypes with => Object.create

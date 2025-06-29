@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "2e9d10d0d7e6d1b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e75e5f1e1a7398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285644205a6fb03d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/elequent-javascript.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "elequent-javascript"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd3acb97279f1f2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc6c9c23ae7d1dba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167308b9beeecf75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d66c69580c85057c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "49136c44a2c7b6d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7ed84cbe6cb2e854",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2d46ce3ae97208a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7698bb4bf66a73a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/elequent-javascript.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for elequent-javascript"
+            }
+          },
+          {
+            "id": "c81256a04e461117",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books/elequent-javascript.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from elequent-javascript"
+            }
+          },
+          {
+            "id": "cec8261e34d9ee06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "076afbac2b6a05c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books/elequent-javascript.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of elequent-javascript"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "285644205a6fb03d",
+  "lastOpenFiles": [
+    "books/structure and interpretation of computer programs.pdf",
+    "books/elequent-javascript.pdf",
+    "books/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
+    "programing/js/class/new keyword.md",
+    "programing/js/class/constructor function.md",
+    "programing/js/class/class.md",
+    "programing/js/prototypes/creating with your custom prototypes.md",
+    "programing/js/prototypes/prototypes (objects,function,arrays).md",
+    "programing/js/methods/call method in functions.md",
+    "programing/js/prototypes",
+    "programing/js/methods/this.md",
+    "programing/js/methods/Untitled",
+    "programing/js/methods/methods.md",
+    "books/grokking-algorithms-illustrated-programmers-curious.pdf",
+    "python book.md",
+    "programing/js/methods",
+    "programing/Untitled.md",
+    "programing/js/class"
+  ]
+}

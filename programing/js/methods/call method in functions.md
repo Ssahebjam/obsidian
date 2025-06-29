@@ -1,0 +1,1 @@
+every function have a call method that take this this value as its first parameter and look at the other parameters as normal parameters.
