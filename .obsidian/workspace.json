@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e75e5f1e1a7398",
+        "id": "d9fa58bf23c8f788",
         "type": "tabs",
         "children": [
           {
-            "id": "285644205a6fb03d",
+            "id": "633b4af9991b60c3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/elequent-javascript.pdf"
+                "file": "books/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "elequent-javascript"
+              "title": "Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship"
             }
           }
         ]
@@ -167,10 +167,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "285644205a6fb03d",
+  "active": "633b4af9991b60c3",
   "lastOpenFiles": [
-    "books/structure and interpretation of computer programs.pdf",
+    "books/Working Effectively with Legacy Code.pdf",
+    "books/Agile Software Development_ Principles, Patterns, and Practices.pdf",
+    "books/Agile Estimating and Planning.pdf",
+    "books/Managing Agile Projects.pdf",
+    "Web/SEO/seopdf.pdf",
+    "programing/destructuring.md",
+    "algotithmes/algorithm.md",
+    "algotithmes/array or linked list.md",
+    "algotithmes/big O nation.md",
+    "README.md",
+    "python book.md",
+    "Web/SEO/Google/Google serp.md",
     "books/elequent-javascript.pdf",
+    "books/structure and interpretation of computer programs.pdf",
     "books/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
     "programing/js/class/new keyword.md",
     "programing/js/class/constructor function.md",
@@ -183,9 +195,6 @@
     "programing/js/methods/Untitled",
     "programing/js/methods/methods.md",
     "books/grokking-algorithms-illustrated-programmers-curious.pdf",
-    "python book.md",
-    "programing/js/methods",
-    "programing/Untitled.md",
-    "programing/js/class"
+    "programing/Untitled.md"
   ]
 }
