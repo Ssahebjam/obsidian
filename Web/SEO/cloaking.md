@@ -1,0 +1,1 @@
+presenting different content to the google bots and another content to the user

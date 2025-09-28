@@ -4,22 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "d9fa58bf23c8f788",
+        "id": "ac4f39a2d9cb396e",
         "type": "tabs",
         "children": [
           {
-            "id": "633b4af9991b60c3",
+            "id": "3b090c695eb33748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/SEO/url.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "url"
+            }
+          },
+          {
+            "id": "a1e26a17b2d2c369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "مشکلات ساختار سمنتیک.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "مشکلات ساختار سمنتیک"
+            }
+          },
+          {
+            "id": "0e80d6269fd4530f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "مسیر راه بهینه سازی سئو hayatmarble.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "مسیر راه بهینه سازی سئو hayatmarble"
+            }
+          },
+          {
+            "id": "071aab629998a7fd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf"
+                "file": "books/elequent-javascript.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship"
+              "title": "elequent-javascript"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,6 +202,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,34 +211,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "633b4af9991b60c3",
+  "active": "071aab629998a7fd",
   "lastOpenFiles": [
+    "books/the-4-hour-chef.pdf",
+    "مشکلات ساختار سمنتیک.md",
+    "مسیر راه بهینه سازی سئو hayatmarble.md",
+    "Web/SEO/google search stages.md",
+    "استراتژی سئو برای حیات ماربل.md",
+    "Web/SEO/cloaking.md",
+    "Web/SEO/url.md",
+    "Web/SEO/google search esensials.md",
+    "Web/SEO/tools/SEO analitycs.md",
+    "Web/SEO/tools/kw finder.md",
+    "Web/SEO/tools/extensions.md",
+    "Web/SEO/taarif.md",
+    "programing/js/methods/element.previousElementSibling().md",
+    "programing/js/methods/element.nextElementSibling().md",
+    "programing/js/methods/Untitled",
+    "programing/js/methods/getBoundingClientRect().md",
+    "programing/js/methods/Array.from(element.children).md",
+    "programing/js/methods/this.md",
+    "programing/js/methods/methods.md",
+    "books/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
     "books/Working Effectively with Legacy Code.pdf",
     "books/Agile Software Development_ Principles, Patterns, and Practices.pdf",
     "books/Agile Estimating and Planning.pdf",
     "books/Managing Agile Projects.pdf",
-    "Web/SEO/seopdf.pdf",
-    "programing/destructuring.md",
-    "algotithmes/algorithm.md",
-    "algotithmes/array or linked list.md",
-    "algotithmes/big O nation.md",
-    "README.md",
-    "python book.md",
-    "Web/SEO/Google/Google serp.md",
     "books/elequent-javascript.pdf",
-    "books/structure and interpretation of computer programs.pdf",
-    "books/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
-    "programing/js/class/new keyword.md",
-    "programing/js/class/constructor function.md",
-    "programing/js/class/class.md",
-    "programing/js/prototypes/creating with your custom prototypes.md",
-    "programing/js/prototypes/prototypes (objects,function,arrays).md",
-    "programing/js/methods/call method in functions.md",
-    "programing/js/prototypes",
-    "programing/js/methods/this.md",
-    "programing/js/methods/Untitled",
-    "programing/js/methods/methods.md",
-    "books/grokking-algorithms-illustrated-programmers-curious.pdf",
-    "programing/Untitled.md"
+    "Web/SEO/seopdf.pdf",
+    "Web/SEO/tools/Site Map.md",
+    "Web/SEO/keywords/shorttail queries.md",
+    "Web/SEO/keywords/routes.md",
+    "Web/SEO/keywords/Revision.md",
+    "Web/SEO/keywords/PDP.md",
+    "Web/SEO/keywords/middleware.md",
+    "Web/SEO/keywords/PQ.md",
+    "Web/SEO/keywords/PLP.md",
+    "css/css",
+    "css/grid"
   ]
 }

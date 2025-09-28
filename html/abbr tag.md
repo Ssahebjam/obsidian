@@ -1,0 +1,1 @@
+used for acronym (kholase sazi) you can give it title attrebute so when the user hover on it he can see the full words
