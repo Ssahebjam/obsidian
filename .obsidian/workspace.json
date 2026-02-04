@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "95f54d998ef531fd",
+        "id": "8f050309ba5803c8",
         "type": "tabs",
         "children": [
           {
-            "id": "9d784d87927ab34b",
+            "id": "c06fe21ce7559ebd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "books/the-33-strategies-of-war.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "the-33-strategies-of-war"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7ed84cbe6cb2e854",
@@ -165,11 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d784d87927ab34b",
+  "active": "c06fe21ce7559ebd",
   "lastOpenFiles": [
+    "books/Prealgebra-OP.pdf",
+    "Untitled.base",
+    "books/David Goggins - Never Finished_ Unshackle Your Mind and Win the War Within (2022, Lioncrest Publishing)(1) (1).pdf",
     "books/Agile Estimating and Planning.pdf",
     "README.md",
-    "Untitled.base",
     "Untitled 1.base",
     "مشکلات ساختار سمنتیک.md",
     "مسیر راه بهینه سازی سئو hayatmarble.md",
@@ -194,8 +199,6 @@
     "programing/js/methods/this.md",
     "programing/js/methods/methods.md",
     "books/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf",
-    "books/Working Effectively with Legacy Code.pdf",
-    "books/Agile Software Development_ Principles, Patterns, and Practices.pdf",
     "Web/SEO/tools/Site Map.md",
     "Web/SEO/keywords/shorttail queries.md",
     "Web/SEO/keywords/routes.md",
